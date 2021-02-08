@@ -1,0 +1,36 @@
+{
+  "packages":
+  [
+    {
+      "name": "Arduino SAMD-own",
+      "maintainer": "Dario Maechler",
+      "websiteURL": "http://www.arduino.cc/en/Reference/HomePage",
+      "help": {"online": "http://www.arduino.cc/en/Reference/HomePage"},
+      "platforms":
+	  [
+        {
+          "name": "SAMD-own",
+          "architecture": "samd",
+          "version": "1.0.0",
+		  
+          "category": "Contributed",
+          "help": {
+            "online": "http://www.arduino.cc/en/Reference/HomePage"
+          },
+		  
+          "url": "https://github.com/honolulu133/SAMD_Boards/blob/master/Arduino%20board%20definitions/samd_Boards.zip?raw=true",
+          "archiveFileName": "samd_Boards.zip",
+		  "checksum": "SHA-256:6025181F4F48440589ACCD5B5037549D7660DD4B61B20DBE288715C9B9BD7813",
+          "size": "4436200",
+		  
+          "boards": [
+            {"name": "SAMD21 V1 Breakout"}
+          ],
+		  
+          "toolsDependencies": []
+        }
+      ],
+      "tools":[]
+    }
+  ]
+}
