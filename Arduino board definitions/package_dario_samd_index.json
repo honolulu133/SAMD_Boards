@@ -18,7 +18,7 @@
             "online": "http://www.arduino.cc/en/Reference/HomePage"
           },
 		  
-          "url": "https://github.com/honolulu133/SAMD_Boards/blob/master/Arduino%20board%20definitions/samd_Boards.zip?raw=true",
+          "url": "https://github.com/honolulu133/SAMD_Boards/raw/master/Arduino%20board%20definitions/samd.zip?raw=true",
           "archiveFileName": "samd.zip",
 		  "checksum": "SHA-256:CCFDDD780BE6B498428963912A859786BF4A75BF7A0689F4A0B9BFBBEF170F4E",
           "size": "6258099",
